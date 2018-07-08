@@ -19,5 +19,13 @@ im Innern ihre Brut behüten, ohne den Deckel des Bienenstocks zu öffenen und d
 Die Roboterbiene ist mit einem ESP-01, einem Temperatursensor und einer RGB-LED ausgestatt. Ebenso wie die echten Bienen kann auch die Roboterbiene die Temperatur messen und bei bestimmten Temperaturen eine Aktion durchführen. Werden bestimmte Temperaturbereiche gemessen,
 ändert sich die Farbe der LED.
 
-* 10 Grad Celsius - Erst ab einer Außentemperatur von 10 Grad Celsius verlässt eine Biene ihren Stock. Um Fliegen zu können
+* **10 Grad Celsius -** Erst ab einer Außentemperatur von 10 Grad Celsius verlässt eine Biene ihren Stock. Um Fliegen zu können
 muss sie zuerst ihre Flugmuskulatur auf "Betriebstemperatur" bringen.
+
+* **20 Grad Celsius -** Das ist die Wohlfühltemperatur der Bienen. 
+
+* **36 Grad Celsius -** Im letzten Entwicklungsstatium der Bienenlarven können sich die Bienen am besten bei einer Temperatur 
+von 33 bis 36 Grad entwickeln. Deswegen sorgen die Arbeiterinnen für eine Konstante Temperatur im Netzt, um die Entwicklung
+des Nachwuchs zu begünstigen. 
+
+* **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
