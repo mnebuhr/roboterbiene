@@ -29,4 +29,5 @@ des Nachwuchs zu begünstigen.
 * **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut.jpg)
-![video](https://www.youtube.com/watch?v=u_Zq1QxhNWY)
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=u_Zq1QxhNWY)
