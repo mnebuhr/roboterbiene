@@ -7,7 +7,7 @@ zwischen 33 und 36 Grad Celsius.
 
 *"Die Klimatisierung des Brutnestes gehört zu den erstaunlichen Gemeinsachftsleistungen der
 Honigbienen, deren Einzelheiten wir erst allmählich zu verstehen beginnen."*
-([Tautz 2004](http://www.bienenmachenschule.de/pdf/Heizerbienen.pdf/ "Raumklimatisierung: Meisterleistung der Honigbienen, PDF"))
+[(Tautz, 2004)](http://www.bienenmachenschule.de/pdf/Heizerbienen.pdf/ "Raumklimatisierung: Meisterleistung der Honigbienen, PDF")
 
 Bienen können Wärme erzeugen, indem sie mit ihren Muskeln zucken. Ist es im Innern des Bienenstocks zu warm, holen sie Wasser, das 
 durch Verdunstung für Abkühlung sorgt.
@@ -29,3 +29,5 @@ von 33 bis 36 Grad entwickeln. Deswegen sorgen die Arbeiterinnen für eine Konst
 des Nachwuchs zu begünstigen. 
 
 * **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
+
+![text](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut.jpg)
