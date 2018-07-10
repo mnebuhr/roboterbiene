@@ -18,6 +18,8 @@ Temperatursensoren ausgestattet. Zeigt die Temperaturkurve konstant 36 Grad Cels
 Die Roboterbiene ist mit einem ESP-01, einem Temperatursensor und einer RGB-LED ausgestatt. Ebenso wie die echten Bienen kann die Roboterbiene die Temperatur messen und etsprechend der gemessenen Temperatur eine Aktion durchführen. Anders als die echten Bienen 
 beginnt sie nicht damit, Wärme zu erzeugen oder für Abkühlung zu sorgen, sondern sie ändert die Hue-Wert der LED.
 
+### Technische Leistung
+
 Die Biene kann Temperaturunterschiede in einem Bereich von ungefähr 10 bis 40 Grad Celsius unterscheiden. Das ist der Temperaturbereich, in dem eine Biene überleben kann. 
 
 * **10 Grad Celsius -** Erst ab einer Außentemperatur von 10 Grad Celsius verlässt eine Biene ihren Stock. Um Fliegen zu können
