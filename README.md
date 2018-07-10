@@ -1,20 +1,18 @@
-# roboterbiene
-Die Roboterbiene misst die Temperatur und signalisiert mit einer Farb-LED verschiedene Temperaturbereiche. 
+# Roboterbiene
+Die Roboterbiene kann die Temperatur messen und die gemessene Temperatur über eine Farb-LED anzeigen. In einem Bereich von ungefähr 10 bis 40 Grad Celsius wechselt die Biene die Farbe in einem fließenden Farbverlauf von Blau zu Rot. 
 
 In der Natur können Bienen ebenfalls ihre Umgebungstemperatur messen und sind in der Lage gezielt ein bestimmtes Raumklima im 
-Innern ihres Bienenstocks zu erzeugen. Während der Brutzeit beheizen oder kühlen die Arbeiterbienen das Brutnest auf eine Temperatur
-zwischen 33 und 36 Grad Celsius.  
+Innern ihres Bienenstocks zu erzeugen. Sie können ihre Körpertemteratur durch Muskelzucken bis 42 Grad Celsius aufheizen und geben die Wärme an den Bienenstock ab. Ist es im Innern des Bienenstocks hingegen zu warm, holen sie Wasser, das durch Verdunstung für Abkühlung sorgt. Während der Brutzeit beheizen oder kühlen die Arbeiterbienen das Brutnest auf eine konstante Temperatur
+zwischen 33 und 36 Grad Celsius. 
 
 *"Die Klimatisierung des Brutnestes gehört zu den erstaunlichen Gemeinschaftsleistungen der
 Honigbienen, deren Einzelheiten wir erst allmählich zu verstehen beginnen."*
 [(Tautz, 2004)](http://www.bienenmachenschule.de/pdf/Heizerbienen.pdf/ "Raumklimatisierung: Meisterleistung der Honigbienen, PDF")
 
-Bienen können Wärme erzeugen, indem sie mit ihren Muskeln zucken. Dabei verbrauchen sie selber viel Energie. Ist es im Innern des Bienenstocks zu warm, holen sie Wasser, das durch Verdunstung für Abkühlung sorgt.
-
 Die kollektive Leistung der Bienen ist messbar. In der Bienenforschung und in der modernen Imkerei werden Bienenstöcke mit
 Temperatursensoren ausgestattet. Zeigt die Temperaturkurve konstant 36 Grad Celsius an, dann weiß der Imker, ohne dass er den Deckel des Bienenstocks öffenen muss und damit das Bienenvolk stören würde, dass sich im Innern ein Brutnest befindet. Diese Information ist für ihn sehr nützlich, so weiß er z.B. dass er in dieser Zeit keine Behandlung gegen die Varoamilbe durchführen darf. 
 
-Die Roboterbiene ist mit einem ESP-01, einem Temperatursensor und einer RGB-LED ausgestatt. Ebenso wie die echten Bienen kann auch die Roboterbiene die Temperatur messen und bei bestimmten Temperaturen eine Aktion durchführen. Werden bestimmte Temperaturbereiche gemessen,
+Die Roboterbiene ist mit einem ESP-01, einem Temperatursensor und einer RGB-LED ausgestatt. Ebenso wie die echten Bienen kann die Roboterbiene die Temperatur messen und bei bestimmten Temperaturen eine Aktion durchführen. Entsprechend der gemessenen Temperatur
 ändert sich die Farbe der LED.
 
 * **10 Grad Celsius -** Erst ab einer Außentemperatur von 10 Grad Celsius verlässt eine Biene ihren Stock. Um Fliegen zu können
