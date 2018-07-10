@@ -3,7 +3,7 @@ Die Roboterbiene kann die Luftemperatur messen und entsprechend der gemessenen W
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Roboterbiene.jpg)
 
-## Kollektive Leistung
+### Kollektive Leistung
 In der Natur können Bienen ebenfalls ihre Umgebungstemperatur messen und sind in der Lage gezielt ein bestimmtes Raumklima im 
 Innern ihres Bienenstocks zu erzeugen. Sie können ihre Körpertemteratur durch Muskelzucken bis 42 Grad Celsius aufheizen und geben die Wärme an den Bienenstock ab. Ist es im Innern des Bienenstocks hingegen zu warm, holen sie Wasser, das durch Verdunstung für Abkühlung sorgt. Während der Brutzeit beheizen oder kühlen die Arbeiterbienen das Brutnest auf eine konstante Temperatur
 zwischen 33 und 36 Grad Celsius. 
@@ -33,13 +33,13 @@ können.
 
 * **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
 
-Die Roboterbiene verbindet Natur und Technik. 
-![Natur und Technik](https://drive.google.com/drive/u/0/my-drive)
+### Natur und Technik
 
+Die Roboterbiene verbindet Natur und Technik. Die Form der Biene ahmt das Aussehen einer echten Biene nach, denn sie besitzt typische Merkmale einer Biene: gestreifter Körper, zwei Flügel, sechs Beine und zwei Fühler. Die Struktur der Flügel wurde der Strukur von echten Bienenflügeln nachempfunden. Gleichzeitig ahmt die Roboterbiene das Aussehen einer Mikrokontroller-Platine nacht. Die Elektronischen Bauteile sind bewusst sichtbar und eingravierte Linien erinnern an Leiterbahnen eines PCB-Bords. 
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut.jpg)
 
-<a href="https://www.youtube.com/watch?v=u_Zq1QxhNWY" target="_blank"><img src="http://img.youtube.com/vi/watch?v=u_Zq1QxhNWY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+### Komposition
 
+Die Roboterbiene als Objekt soll sowohl das Interesse für die Phänomene der Natur sowie für technische und elektronische Elemente und Komponenten wecken. Die kollektiven Leistungen von Bienenvölkern werden gerne und viel untersucht und erforscht. Die Physiognomie der Biene spielt dabei auch eine entscheidende Rolle. Die Roboterbiene wurde mit einem Temperatursensor ausgestattet und hebt damit das Phänomän der Biene nach, die Temperaturen sehr gut wahrnehmen kann und in gemeinsamer Arbeit mit den anderen Bienen das Raumklima im Innern eines Bienenstocks regeln kann. Die Roboerbiene ist gleichzeitig eine elektronische Schaltung mit einem Temperatursensor, die jede einzelne Komponente bewusst zeigt und nicht abdeckt. Die Roboterbiene ist auch programmierbar. So kann das Verhalten der Biene auf die gemessenen Sensorwerte noch verändert werden. Wie kann die Anzeige der Temperaturwerte optimiert werden? Wie können die einzelnen Temperaturbereiche besser hervorgehoben werden? Kann die Biene mit dem ESP-01 die Sensodaten auch senden? 
 
