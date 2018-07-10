@@ -15,7 +15,7 @@ Honigbienen, deren Einzelheiten wir erst allmählich zu verstehen beginnen."*
 Die kollektive Leistung der Bienen ist messbar. In der Bienenforschung und in der modernen Imkerei werden Bienenstöcke mit
 Temperatursensoren ausgestattet. Zeigt die Temperaturkurve konstant 36 Grad Celsius an, dann weiß der Imker, ohne dass er den Deckel des Bienenstocks öffenen muss und damit das Bienenvolk stören würde, dass sich im Innern ein Brutnest befindet. Diese Information ist für ihn sehr nützlich, so weiß er z.B. dass er in dieser Zeit keine Behandlung gegen die Varoamilbe durchführen darf. 
 
-### Technische Leistung
+### Der Prototyp
 
 Die Roboterbiene ist mit einem ESP-01, einem Temperatursensor und einer RGB-LED ausgestatt. Ebenso wie die echten Bienen kann die Roboterbiene die Temperatur messen und etsprechend der gemessenen Temperatur eine Aktion durchführen. Anders als die echten Bienen 
 beginnt sie nicht damit, Wärme zu erzeugen oder für Abkühlung zu sorgen, sondern sie ändert die Hue-Wert der LED.
