@@ -1,5 +1,5 @@
 # Roboterbiene
-Die Roboterbiene kann die Luftemperatur messen und entsprechend der gemessenen Werte die Farbe der LED auf ihrem Rücken ändern. In einem Bereich von ungefähr 10 bis 40 Grad Celsius wechselt die Farbe der LED von Blau zu Rot in einem fließenden Übergang. 
+Die Roboterbiene kann die Luftemperatur messen und entsprechend der gemessenen Werte die Farbe der LED, die auf ihrem Rückensitzt, ändern. In einem Bereich von ungefähr 10 bis 40 Grad Celsius wechselt die Farbe der LED von Blau zu Rot in einem fließenden Übergang. 
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Roboterbiene.jpg)
 
@@ -43,10 +43,10 @@ Die Roboterbiene verbindet Natur und Technik. Die Form der Biene ahmt das Ausseh
 
 ### Komposition
 
-Die Roboterbiene als Objekt soll sowohl das Interesse für die Phänomene der Natur sowie für technische und elektronische Elemente und Komponenten wecken. Die kollektiven Leistungen von Bienenvölkern werden gerne und viel untersucht und erforscht. Die Physiognomie der Biene spielt dabei auch eine entscheidende Rolle. Mit ihrem im Schaltkreis integrierten Temperatursensor hebt die Roboterbiene die physiognomische und die kollektive Leistung der Biene hervor.  
+Die Roboterbiene als Objekt soll sowohl das Interesse für die Phänomene der Natur sowie für technische und elektronische Elemente und Komponenten wecken. Die kollektiven Leistungen von Bienenvölkern werden gerne und viel untersucht und erforscht. Die Physiognomie der Biene spielt dabei auch eine entscheidende Rolle. Mit ihrem im Schaltkreis integrierten Temperatursensor hebt die Roboterbiene eine physiognomische und die kollektive Leistung der Biene hervor.  
 
 Die Roboterbiene ist gleichzeitig ein elektronisches Spielzeug, bei dem jede einzelne Komponente bewusst gezeigt und nicht abdeckt wird. Bis auf die Widestände, die die Beine der Biene bilden, hat jedes verbaute elektronische Bauteil eine Funktion im Schaltkreis. Die Bloßlegung der technischen Bauteile soll die Technik sichtbar und erfahrbar machen.
 
-Die Roboterbiene ist auch programmierbar. So kann das Verhalten der Biene auf die gemessenen Sensorwerte noch verändert werden. Wie kann die Anzeige der Temperaturwerte optimiert werden? Wie können die einzelnen Temperaturbereiche besser hervorgehoben werden? Kann die Biene mit dem ESP-01 die Sensodaten auch senden? 
+Die Roboterbiene ist auch programmierbar. So kann das Verhalten der Biene auf die gemessenen Sensorwerte noch verändert werden. Wie kann die Anzeige der Temperaturwerte optimiert werden? Wie können die einzelnen Temperaturbereiche besser hervorgehoben werden? Kann die Biene mit dem ESP-01 die Sensordaten auch senden? 
 
 ![](https://github.com/mnebuhr/roboterbiene/blob/master/media/schaltung.png)
