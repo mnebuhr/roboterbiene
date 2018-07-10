@@ -3,6 +3,7 @@ Die Roboterbiene kann die Luftemperatur messen und entsprechend der gemessenen W
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Roboterbiene.jpg)
 
+## Kollektive Leistung
 In der Natur können Bienen ebenfalls ihre Umgebungstemperatur messen und sind in der Lage gezielt ein bestimmtes Raumklima im 
 Innern ihres Bienenstocks zu erzeugen. Sie können ihre Körpertemteratur durch Muskelzucken bis 42 Grad Celsius aufheizen und geben die Wärme an den Bienenstock ab. Ist es im Innern des Bienenstocks hingegen zu warm, holen sie Wasser, das durch Verdunstung für Abkühlung sorgt. Während der Brutzeit beheizen oder kühlen die Arbeiterbienen das Brutnest auf eine konstante Temperatur
 zwischen 33 und 36 Grad Celsius. 
