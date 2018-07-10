@@ -1,6 +1,8 @@
 # Roboterbiene
 Die Roboterbiene kann die Temperatur messen und die gemessene Temperatur über eine Farb-LED anzeigen. In einem Bereich von ungefähr 10 bis 40 Grad Celsius wechselt die Biene die Farbe fließend von Blau zu Rot. 
 
+![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Roboterbiene.jpg)
+
 In der Natur können Bienen ebenfalls ihre Umgebungstemperatur messen und sind in der Lage gezielt ein bestimmtes Raumklima im 
 Innern ihres Bienenstocks zu erzeugen. Sie können ihre Körpertemteratur durch Muskelzucken bis 42 Grad Celsius aufheizen und geben die Wärme an den Bienenstock ab. Ist es im Innern des Bienenstocks hingegen zu warm, holen sie Wasser, das durch Verdunstung für Abkühlung sorgt. Während der Brutzeit beheizen oder kühlen die Arbeiterbienen das Brutnest auf eine konstante Temperatur
 zwischen 33 und 36 Grad Celsius. 
@@ -29,7 +31,9 @@ können.
 
 * **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
 
-Die Roboterbiene verbindet Natur und technik. 
+Die Roboterbiene verbindet Natur und Technik. 
+![Natur und Technik](https://drive.google.com/drive/u/0/my-drive)
+
 
 ![Bild](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut.jpg)
 
