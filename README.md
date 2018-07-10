@@ -50,4 +50,4 @@ Die Roboterbiene ist gleichzeitig ein elektronisches Spielzeug, bei dem jede ein
 Die Roboterbiene ist auch programmierbar. So kann das Verhalten der Biene auf die gemessenen Sensorwerte noch verändert werden. Wie kann die Anzeige der Temperaturwerte optimiert werden? Wie können die einzelnen Temperaturbereiche besser hervorgehoben werden? Kann die Biene mit dem ESP-01 die Sensordaten auch senden? 
 
 ![](https://github.com/mnebuhr/roboterbiene/blob/master/media/schaltung.png)
-![](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut.jpg)
+![](https://github.com/mnebuhr/roboterbiene/blob/master/media/Lasercut-vorlage.png)
