@@ -33,6 +33,8 @@ können.
 
 * **42 Grad Celsius -** Eine Biene kann sich selber bis zu einer Temperatur von 42 Grad Celsius aufwärmen. Bei höheren Temperaturen stirbt sie.
 
+![](https://github.com/mnebuhr/roboterbiene/blob/master/media/naturTechnik.jpg)
+
 ### Natur und Technik
 
 Die Roboterbiene verbindet Natur und Technik. Die Form der Biene ahmt das Aussehen einer echten Biene nach, denn sie besitzt typische Merkmale einer Biene: gestreifter Körper, zwei Flügel, sechs Beine und zwei Fühler. Die Struktur der Flügel wurde der Strukur von echten Bienenflügeln nachempfunden. Gleichzeitig ahmt die Roboterbiene das Aussehen einer Mikrokontroller-Platine nacht. Die Elektronischen Bauteile sind bewusst sichtbar und eingravierte Linien erinnern an Leiterbahnen eines PCB-Bords. 
